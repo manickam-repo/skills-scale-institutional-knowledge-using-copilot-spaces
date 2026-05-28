@@ -75,7 +75,121 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+UX Designers design user interfaces, create wireframes and prototypes, and ensure usability and accessibility.
+
+### Responsibilities
+- Gather and analyze user requirements
+- Create wireframes, mockups, and prototypes
+- Conduct usability testing with users and stakeholders
+- Ensure design consistency and accessibility compliance
+- Work closely with Product Managers, Developers, and Technical Writers
+
+### Goals
+- Deliver user-friendly, accessible product experiences
+- Reduce user friction and improve satisfaction
+- Incorporate feedback early and often via iteration
+
+### Typical Communication
+- Design review sessions
+- User testing debriefs
+- Slack/async discussions on requirements and flows
+
+---
+
+## Technical Writer
+
+### Role Summary
+Technical Writers create user and developer documentation, release notes, and onboarding guides, collaborating closely with multiple roles to ensure accuracy and clarity.
+
+### Responsibilities
+- Write and maintain user guides, technical docs, and release notes
+- Document API changes and new features
+- Collaborate with Developers, Product Managers, and Customer Support
+- Organize and update documentation in repos
+
+### Goals
+- Make technical concepts understandable for the intended audience
+- Improve onboarding, support, and self-service
+- Reduce documentation debt
+
+### Typical Communication
+- Documentation reviews
+- Collaboration with devs on technical details
+- Sync-ups with support to clarify pain points
+
+---
+
+## Data Analyst
+
+### Role Summary
+Data Analysts define and track key metrics, create dashboards, and communicate analytic insights to inform decisions across product and project teams.
+
+### Responsibilities
+- Identify and monitor success metrics
+- Build dashboards and reports for stakeholders
+- Partner with Product Managers and Project Managers to provide data-driven insights
+- Prepare and communicate findings, recommendations, and experiments
+
+### Goals
+- Support data-informed decisions
+- Highlight trends, gaps, and opportunities
+- Ensure metrics are actionable and aligned with goals
+
+### Typical Communication
+- Metrics review meetings
+- Findings presentations
+- Input into prioritization and planning
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+DevOps Engineers build and maintain infrastructure, automation pipelines, and CI/CD tooling to accelerate project delivery and enhance reliability.
+
+### Responsibilities
+- Manage build, deploy, and monitoring pipelines
+- Maintain and document infrastructure as code
+- Collaborate with Developers and QA for seamless deployments
+- Respond to incidents and reliability issues
+
+### Goals
+- Improve automation and reduce manual hand-offs
+- Accelerate feedback loops
+- Increase reliability and observability
+
+### Typical Communication
+- Standups with delivery teams
+- Incident postmortems
+- CI/CD channel updates
+
+---
+
+## Customer Support Specialist
+
+### Role Summary
+Customer Support Specialists provide feedback from real users, identify pain points, and advocate for customer impact in team discussions and retrospectives.
+
+### Responsibilities
+- Collect and relay customer issues and feature requests
+- Collaborate with Product Managers and Technical Writers on documentation needs
+- Communicate common support themes and advocate for fixes in planning
+
+### Goals
+- Close the loop between users and the development team
+- Reduce repeated support issues through documentation and training
+- Increase customer satisfaction
+
+### Typical Communication
+- Weekly summary of customer issues
+- Feedback during retrospectives and planning
+- Coordination with QA and Product for testing and validation
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
